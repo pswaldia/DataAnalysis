@@ -1,1 +1,1 @@
-This repository is about Data analysis using Python.
+This repository is about data analysis using Python.
